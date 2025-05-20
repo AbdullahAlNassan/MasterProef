@@ -1,0 +1,215 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Pagina-1" id="78qvNJ7CUZDxVuWQFkL6">
+    <mxGraphModel dx="2934" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-1" target="7To4QfRpWMrjk9SUkqjW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-8" target="7To4QfRpWMrjk9SUkqjW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-8" value="Vraag aantal spelers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-10" target="7To4QfRpWMrjk9SUkqjW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-10" value="Genereer spelers + Deel 7 kaarten per speler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-12" target="7To4QfRpWMrjk9SUkqjW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-12" value="Leg de bovenste kaart op de stapel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-14" target="7To4QfRpWMrjk9SUkqjW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-14" value="Herhaal totdat iemand geen kaarten meer heeft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-16" target="7To4QfRpWMrjk9SUkqjW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-16" value="Voor elke speler:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-18" target="7To4QfRpWMrjk9SUkqjW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-18" value="Toon hand + open kaart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-20" target="7To4QfRpWMrjk9SUkqjW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-29" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7To4QfRpWMrjk9SUkqjW-25">
+          <mxGeometry x="-0.12" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-20" target="7To4QfRpWMrjk9SUkqjW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-30" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7To4QfRpWMrjk9SUkqjW-27">
+          <mxGeometry x="-0.2133" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-20" value="Heeft speler een speelbare kaart?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="1230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-24" value="Speel kaart volgens AI-strategie" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-26" value="Trek kaart" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-590" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-28" target="7To4QfRpWMrjk9SUkqjW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-40" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7To4QfRpWMrjk9SUkqjW-36">
+          <mxGeometry x="-0.3086" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-28" target="7To4QfRpWMrjk9SUkqjW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-39" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7To4QfRpWMrjk9SUkqjW-38">
+          <mxGeometry x="-0.008" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-28" value="Heeft speler nu een speelbare kaart?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1400" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-26" target="7To4QfRpWMrjk9SUkqjW-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="1460" as="sourcePoint" />
+            <mxPoint x="-420" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-470" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790" y="1290" as="sourcePoint" />
+            <mxPoint x="-655" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-790" y="1360" />
+              <mxPoint x="-790" y="1370" />
+              <mxPoint x="-790" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-35" target="7To4QfRpWMrjk9SUkqjW-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="1590" />
+              <mxPoint x="-270" y="1590" />
+              <mxPoint x="-270" y="1930" />
+              <mxPoint x="-450" y="1930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-35" value="Sla beurt over" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-37" target="7To4QfRpWMrjk9SUkqjW-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-37" value="Speel getrokken kaart" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-43" target="7To4QfRpWMrjk9SUkqjW-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-51" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7To4QfRpWMrjk9SUkqjW-48">
+          <mxGeometry x="-0.1086" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-43" target="7To4QfRpWMrjk9SUkqjW-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-52" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7To4QfRpWMrjk9SUkqjW-50">
+          <mxGeometry x="-0.12" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-43" value="Heeft speler nog 1 kaart?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1620" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-47" target="7To4QfRpWMrjk9SUkqjW-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="1820" />
+              <mxPoint x="-450" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-47" value="Ga door" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-49" target="7To4QfRpWMrjk9SUkqjW-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-810" y="1800" />
+              <mxPoint x="-655" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-49" value="Roep UNO!" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="1650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-53" target="7To4QfRpWMrjk9SUkqjW-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-62" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7To4QfRpWMrjk9SUkqjW-58">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-53" target="7To4QfRpWMrjk9SUkqjW-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-61" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7To4QfRpWMrjk9SUkqjW-60">
+          <mxGeometry x="-0.0914" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-53" value="Heeft speler 0 kaarten?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1820" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-57" target="7To4QfRpWMrjk9SUkqjW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-57" value="Volgende speler" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7To4QfRpWMrjk9SUkqjW-59" target="7To4QfRpWMrjk9SUkqjW-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-59" value="Stop spel, speler wint" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7To4QfRpWMrjk9SUkqjW-65" value="Toon eindscore + winnaar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
